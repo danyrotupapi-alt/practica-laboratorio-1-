@@ -1,0 +1,14 @@
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\bin\Debug\net8.0\condiion 1.exe
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\bin\Debug\net8.0\condiion 1.deps.json
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\bin\Debug\net8.0\condiion 1.runtimeconfig.json
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\bin\Debug\net8.0\condiion 1.dll
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\bin\Debug\net8.0\condiion 1.pdb
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\obj\Debug\net8.0\condiion 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\obj\Debug\net8.0\condiion 1.AssemblyInfoInputs.cache
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\obj\Debug\net8.0\condiion 1.AssemblyInfo.cs
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\obj\Debug\net8.0\condiion 1.csproj.CoreCompileInputs.cache
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\obj\Debug\net8.0\condiion 1.dll
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\obj\Debug\net8.0\refint\condiion 1.dll
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\obj\Debug\net8.0\condiion 1.pdb
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\obj\Debug\net8.0\condiion 1.genruntimeconfig.cache
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\condiion 1\condiion 1\obj\Debug\net8.0\ref\condiion 1.dll

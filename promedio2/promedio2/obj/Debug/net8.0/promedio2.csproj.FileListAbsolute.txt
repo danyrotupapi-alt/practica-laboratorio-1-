@@ -1,0 +1,14 @@
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\bin\Debug\net8.0\promedio2.exe
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\bin\Debug\net8.0\promedio2.deps.json
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\bin\Debug\net8.0\promedio2.runtimeconfig.json
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\bin\Debug\net8.0\promedio2.dll
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\bin\Debug\net8.0\promedio2.pdb
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\obj\Debug\net8.0\promedio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\obj\Debug\net8.0\promedio2.AssemblyInfoInputs.cache
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\obj\Debug\net8.0\promedio2.AssemblyInfo.cs
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\obj\Debug\net8.0\promedio2.csproj.CoreCompileInputs.cache
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\obj\Debug\net8.0\promedio2.dll
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\obj\Debug\net8.0\refint\promedio2.dll
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\obj\Debug\net8.0\promedio2.pdb
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\obj\Debug\net8.0\promedio2.genruntimeconfig.cache
+C:\Users\Docente\Desktop\fundamentos de olgaritmos\promedio2\promedio2\obj\Debug\net8.0\ref\promedio2.dll
