@@ -1,0 +1,41 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Declaración de variables
+        double nota1, nota2, nota3, promedio;
+
+        // Entrada de datos
+        Console.Write("Ingrese la primera nota: ");
+        nota1 = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Ingrese la segunda nota: ");
+        nota2 = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Ingrese la tercera nota: ");
+        nota3 = Convert.ToDouble(Console.ReadLine());
+
+        // Cálculo del promedio
+        promedio = (nota1 + nota2 + nota3) / 3;
+
+        // Muestra del resultado
+        Console.WriteLine($"\nEl promedio es: {promedio:F2}");
+
+        // Evaluación
+        if (promedio >= 11)
+        {
+            Console.WriteLine("El estudiante APROBÓ.");
+        }
+        else
+        {
+            Console.WriteLine("El estudiante DESAPROBÓ.");
+        }
+
+        // Espera una tecla antes de cerrar (opcional)
+        Console.WriteLine("\nPresione una tecla para salir...");
+        Console.ReadKey();
+    }
+}
+
